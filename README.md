@@ -59,4 +59,12 @@ python main.py
 ## Author
 
 Tarun R
+---
 
+## Screenshots
+
+### Main Menu
+![Neon Survival Main Menu](main-menu.png)
+
+### Gameplay
+![Neon Survival Gameplay](gameplay.png)
